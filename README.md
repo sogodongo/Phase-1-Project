@@ -1,1 +1,1 @@
-# Projet-Phase-1
+# Movie Insights: Exploring Box Office Performance and Ratings
