@@ -1,5 +1,6 @@
 Movie Insights: Exploring Box Office Performance and Ratings(2013-2019)
 
+![image](https://github.com/sogodongo/Phase-1-Project/assets/103502854/940eb443-2445-4739-9395-bcd21f4d33f3)
 
 
 a) Introduction
