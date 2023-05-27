@@ -1,4 +1,7 @@
 Movie Insights: Exploring Box Office Performance and Ratings(2013-2019)
+
+
+
 a) Introduction
 Microsoft is a multinational technology company known for its wide range of software, hardware, and services. Founded in 1975 by Bill Gates and Paul Allen, Microsoft has played a pivotal role in shaping the digital landscape and revolutionizing the way people interact with technology. With iconic products such as Windows, Office, and Xbox, Microsoft has established itself as a global leader in the technology industry. The company's mission is to empower individuals and organizations worldwide to achieve more through the power of innovative technology solutions. Microsoft's commitment to innovation, coupled with its strong focus on cloud computing, artificial intelligence, and digital transformation, has positioned it as a key player in the modern digital era. Continually striving to push the boundaries of what is possible, Microsoft remains at the forefront of technological advancements, driving innovation and transforming industries across the globe.
 
