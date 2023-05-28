@@ -39,14 +39,32 @@ Analyze the genre distribution in the "movies_data" file to understand the popul
 iv. Analyzing the Impact of Movie Runtime,Genres and Studios on Ratings
 Utilize the "rt.movie_info.tsv" and "rt.reviews.tsv" files to analyze audience ratings of films. Analyze the impact of Studios on Movie Rating. Identify genres that receive positive audience feedback and have a higher likelihood of success based on ratings. Investigate whether there is a significance correlation between movie runtime and ratings.Confirm the recent movie trends.
 
-e) Experimental Design
+e)
+The metric for success in this project will be based on the ability to provide valuable insights and actionable recommendations to Microsoft regarding the factors that contribute to the success and profitability of films in the movie industry. The following key metrics will be used to evaluate the success of the project:
+
+-Comprehensive Understanding: The project should provide a comprehensive understanding of the movie industry by analyzing box office performance, seasonal patterns in successful movie releases, genre popularity and trends, and the impact of movie runtime, genres, and studios on ratings.
+
+-Insights and Recommendations: The project should deliver meaningful insights and data-driven recommendations to Microsoft, enabling them to make informed decisions regarding film production, genre selection, release strategies, and resource allocation. These insights should contribute to maximizing the chances of producing successful films and achieving financial success in the market.
+
+-Actionability: The recommendations provided should be practical and actionable, allowing Microsoft to implement them effectively in their movie production and distribution strategies.
+
+-Alignment with Business Goals: The insights and recommendations should align with Microsoft's overall business goals and objectives. They should contribute to the organization's growth, profitability, and expansion into the movie industry.
+
+-Impact and Value: The project should have a tangible impact on Microsoft's movie-related initiatives. The insights gained should lead to improved decision-making processes, increased audience engagement, higher box office performance, and enhanced brand reputation in the movie industry
+
+
+
+f) Experimental Design
 
 Data Collection
 Reading the data
 Exploring and Reprocessing Data
 Data Analysis
 Conclusions and Recommendations
-f) Data Understanding
+
+
+
+g) Data Understanding
 The movie data used in this project was obtained from Box Office Mojo,TheMovieDB,IMDB,Rotten Tomatoes and The Numbers.
 
 The websites contain the following datasets:
