@@ -129,7 +129,7 @@ c) Exploring the impact of Studios on Movie Rating
 - Analyze audience preferences and strategically plan movie releases during popular months like December and October, as well as during the spring and summer seasons. These periods have shown higher success rates for movie releases, attracting larger audiences.
 - Collaborate or partner with successful studios like The Weinstein Company, Lionsgate/Roadside Attractions, or other independent studios known for producing high-rated films. Working with established studios can enhance the overall success and perception of movies.
 - Focus on factors beyond runtime to enhance audience ratings.For example,you could engage in compelling storytelling, develop memorable characters, and implement effective marketing strategies.
-- Stay updated with evolving audience behavior and industry trends. Continuously monitor and adapt to changing preferences and expectations of moviegoers. Remaining competitive in the dynamic movie industry requires being responsive to audience demands and industry shifts
+- Stay updated with evolving audience behavior and industry trends. Continuously monitor and adapt to changing preferences and expectations of moviegoers. Remaining competitive in the dynamic movie industry requires being responsive to audience demands and industry shifts.
 
 **Further Improvement Ideas**
 
