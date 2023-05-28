@@ -27,19 +27,19 @@ To gain insights and make informed decisions regarding box office performance, s
 
 **d) Specific Objectives**
 
-i. Analyze Box Office Performance
+_i. Analyze Box Office Performance_
 
 Explore "tn.movie_budgets.csv" file to analyze the box office performance of different films. Examine the domestic and international gross earnings and budgets of differentt movie genres. Identify the highest-grossing films and compare their performance across genres. Determine the most profitable genres that have a higher likelihood of financial success.
 
-ii. Assessing Seasonal Patterns in Successful Movie Releases
+_ii. Assessing Seasonal Patterns in Successful Movie Releases_
 
 Explore the "tn.movie_budgets.csv" file to understand the the number of successful movies releases overtime based on a positive return on investements(ROI).Assessing the most successful months to release movies.
 
-iii. Assessing Genre Popularity and Trends
+_iii. Assessing Genre Popularity and Trends_
 
 Analyze the genre distribution in the "movies_data" file to understand the popularity of different genres among filmmakers and audiences.
 
-iv. Analyzing the Impact of Movie Runtime,Genres and Studios on Ratings
+_iv. Analyzing the Impact of Movie Runtime,Genres and Studios on Ratings_
 Utilize the "rt.movie_info.tsv" and "rt.reviews.tsv" files to analyze audience ratings of films. Analyze the impact of Studios on Movie Rating. Identify genres that receive positive audience feedback and have a higher likelihood of success based on ratings. Investigate whether there is a significance correlation between movie runtime and ratings.Confirm the recent movie trends.
 
 **e)Defining Metrics for Success**
@@ -94,21 +94,21 @@ Out of the several datasets that were collected, only some features and rows are
 
  **Data Analysis**
  
-I). Analyzing Box Office Performance
+_I). Analyzing Box Office Performance_
 a) Analyzing the top performing movies in box office in terms of gross domestic and worldwide earnings.
 b) Analyzing the most profatble movie genres
 
 
-II. Assessing Seasonal Patterns in Successful Movie Releases
+_II. Assessing Seasonal Patterns in Successful Movie Releases_
 
 a) Assessing the number of successful movies releases overtime based on a positive return on investements(ROI)
 b) Assessing the most successful months to release movies
 
-III. Assessing Genre Popularity and Trends
+_III. Assessing Genre Popularity and Trends_
 
 a) Assessing the most popular genres
 
-IV. Analyzing the Impact of Movie Runtime,Genres and Studios on Ratings
+_IV. Analyzing the Impact of Movie Runtime,Genres and Studios on Ratings_
 
 a) Analyzing the impact of movie genres on rating
 b) Exploring the Relationship between Runtime and Movie Rating
